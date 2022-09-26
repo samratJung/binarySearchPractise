@@ -17,6 +17,8 @@ public class SumOfTwoNumbersLessThanTarget {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		String digits[] ={"One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight","Nine"};
+        String ten_places[] ={"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
 		SumOfTwoNumbersLessThanTarget.solve(new int[] {5, 1, 2, 3}, 2);
 	}
 
