@@ -1,7 +1,10 @@
 package binarySearch;
 
 public class FirstFitRoom {
-	
+	/**
+	 * Basic array iteration, but the program is very slow.
+	 * Should try another approach
+	 */
 	public static int Solve(int [] rooms, int target)
 	{
 		for(int i=0; i<rooms.length; i++)
