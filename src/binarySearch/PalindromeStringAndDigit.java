@@ -36,7 +36,7 @@ public class PalindromeStringAndDigit {
 		
 		for(int i=count-1; i>=0; i--)
 		{
-            compare_num +=(duplicate_num % Math.pow(10,1) * Math.pow(10, i));;
+            compare_num +=(duplicate_num % 10) * Math.pow(10, i);
             duplicate_num=duplicate_num/10;
 		}
 		
