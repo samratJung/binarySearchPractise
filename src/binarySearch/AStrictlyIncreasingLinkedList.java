@@ -42,7 +42,6 @@ public class AStrictlyIncreasingLinkedList {
 		}
 		else
 		{
-			
 			return new BackTrack();
 		}
 	}
