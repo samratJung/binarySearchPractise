@@ -46,6 +46,7 @@ public class LengthOfLinkedList {
 		 * }
 		 * 
 		 */
+		return 0;
 	}
 
 
