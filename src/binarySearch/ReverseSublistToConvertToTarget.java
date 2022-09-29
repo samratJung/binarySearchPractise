@@ -18,7 +18,6 @@ public class ReverseSublistToConvertToTarget {
             else
                 return false;
         }
-
         return true;
 
     }
